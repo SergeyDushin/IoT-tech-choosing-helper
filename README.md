@@ -1,2 +1,2 @@
-Disison making helper for IoT tech choosing
+It is draft software for disison making helper for IoT tech choosing
 
